@@ -63,10 +63,10 @@
     height: 300px;
 }
 
-.photo-grid-item:first-child {
+.first-item {
     order: 1;
 }
 
-.photo-grid-item:last-child {
+.last-item {
     order: -1;
 }
