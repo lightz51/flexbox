@@ -70,3 +70,11 @@
 .last-item {
     order: -1;
 }
+
+.subscribe {
+    align-self: flex-end;
+}
+
+.social {
+    align-self: flex-end;
+}
