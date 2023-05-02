@@ -19,11 +19,6 @@
     justify-content: space-between;
 }
 
-.links {
-    display: flex;
-    justify-content: flex-end;
-}
-
 .login {
     margin-left: 20px;
 }
@@ -100,4 +95,8 @@
     background-color: #5995da;
     flex: initial;
     width: 300px;
+}
+
+.signup {
+    margin-left: auto;
 }
