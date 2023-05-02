@@ -52,7 +52,9 @@
     width: 900px;
     display: flex;
     justify-content: center;
+    align-items: center;
     flex-wrap: wrap;
+    flex-direction: row-reverse;
 }
 
 .photo-grid-item {
